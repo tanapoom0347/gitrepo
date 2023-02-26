@@ -22,3 +22,4 @@ Ctrl+End = เลือกตำแหน่งสุดท้ายของไ
 Ctrl +/- = Zoom In/Out  
 Ctrl Up/Down = เลื่อนตำแหน่งหน้าจอขึ้นลง  
 Alt+ Up/Down = เลื่อนตำแหน่งหน้าจอขึ้นลงแบบหลายบรรทัด  
+Ctrl+K Ctrl+t = เลือก Theme  
