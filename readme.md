@@ -1,7 +1,7 @@
 <!-- in readme.md file -->
 # Shortcut Key VS Code
   
-Ctrl+Shirft+K = Delete line
+Ctrl+Shirft+K = Delete line  
 Ctrl+1 = โฟกัส Editor  
 Ctrl+PgUp/PgDn = เลื่อนหน้า Editor จากซ้ายไปขวา  
 Alt+1 2 3 4 5 = เลือกตำแหน่งของ Editor    
