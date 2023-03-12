@@ -32,7 +32,7 @@ Ctrl+[ = indent กลับออกมาไปทางซ้ายมือ
 //MultiCursor  
 Ctrl+D = เลือกข้อความที่เหมือนกันตัวถัดไป  
 Ctrl+Shift+L = เลือกทุกตัวที่เหมือนกันถัดไป  
-Ctrl+Click = เพื่อเพิ่มตำแหน่งCursorที่จะพิมพ์ข้อความ กดEscเพื่อออกMultiCursorMode  
+Alt+Click = เพื่อเพิ่มตำแหน่งCursorที่จะพิมพ์ข้อความ กดEscเพื่อออกMultiCursorMode  
 Ctrl+Shift+Enter = แทรกบรรทัดอยู่เหนือ  
 Ctrl+Enter = แทรกบรรทัดข้างล่าง  
 Ctrl+Alt+Shift+ArrowDown/Up = MultiCursorเลือกเป็นคอลัมน์ลงมา/ขึ้น กดEscออก  
