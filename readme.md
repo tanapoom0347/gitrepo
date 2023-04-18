@@ -1,6 +1,7 @@
 <!-- in readme.md file -->
 # Shortcut Key VS Code
   
+Alt+Shift+I = Multiple Cursors End of line.  
 Ctrl+Shirft+K = Delete line  
 Ctrl+1 = โฟกัส Editor  
 Ctrl+PgUp/PgDn = เลื่อนหน้า Editor จากซ้ายไปขวา  
